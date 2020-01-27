@@ -1,1 +1,1 @@
-# angular-shakti
+# shakti
